@@ -1,1 +1,20 @@
-{}
+{
+  "msara": {
+    "username": "msara",
+    "password": "M1234554m",
+    "student_type": "علمي",
+    "telegram_user_id": "6380851851",
+    "telegram_username": "Maasd33",
+    "telegram_first_name": "𝐌𝐒𝐀𝐑𝐀ꨄ︎.",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_55.jpg",
+    "session_id": "d7495384-19f4-4a12-80ea-a11c37b86147",
+    "created_at": "2026-05-11T18:52:04.941840",
+    "verified": true,
+    "last_login": "2026-05-11T18:52:08.927029",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 54
+  }
+}
